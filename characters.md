@@ -1,6 +1,4 @@
-Hi, searching all over the web i came with the widest/longest unicode characters. If you know any other please reply with it
-
-From shorter to wider Top 12 widest characters
+Hi, searching all over the web i came with the widest/longest unicode characters. If you know any other please make a pull request with it.
 
 Ǆ
 
